@@ -1,9 +1,6 @@
 /*  your css code here. If applicable */
 #container{
 	margin:20px;
-	color:black;
-	display:inline;
-	font-size:20px;
 }
 #container::before{
 	content: "Before Element ";
